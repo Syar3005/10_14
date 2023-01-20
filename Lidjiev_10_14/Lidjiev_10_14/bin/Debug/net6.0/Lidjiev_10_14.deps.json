@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lidjiev_10_14/1.0.0": {
+        "runtime": {
+          "Lidjiev_10_14.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lidjiev_10_14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
